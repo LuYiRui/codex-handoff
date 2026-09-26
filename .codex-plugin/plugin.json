@@ -1,0 +1,6 @@
+{
+  "name": "codex-handoff",
+  "version": "0.1.0",
+  "description": "Persistent working context for Codex coding sessions.",
+  "skills": "./skills/"
+}

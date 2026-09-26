@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Handoff"
+  short_description: "Preserve concise working context across Codex sessions"
+  default_prompt: "Create or resume from a concise CODEX_HANDOFF.md for this repository."
